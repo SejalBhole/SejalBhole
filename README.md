@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to Sejal Bhole's Universe
+# 👋 Hello There! I'm Sejal Bhole
 
 ![Header Banner](https://img.shields.io/badge/Full%20Stack%20%2B%20ML-Developer-6f42c1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTYiIGZpbGw9IiM2RjQyQzEiLz4KPHRleHQgeD0iMTYiIHk9IjIwIiBmb250LWZhbWlseT0iLURlamFWdVNhbnMtTW9uby1Ob3JtYWwsIERlamFWdSBTYW5zIE1vbm8iIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5TZUphbDwvdGV4dD4KPC9zdmc+)
 
