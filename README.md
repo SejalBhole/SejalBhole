@@ -82,7 +82,7 @@
 
 | 📊 **Finance Tracker** | ✋ **Sign Language Recognition** |
 |:---:|:---:|
-| [![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=SejalBhole&repo=finance-tracker&theme=radical)](https://github.com/SejalBhole/finance-tracker) | [![Sign Language](https://github-readme-stats.vercel.app/api/pin/?username=SejalBhole&repo=sign-language-recognition&theme=radical)](https://github.com/SejalBhole/sign-language-recognition) |
+| [![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=SejalBhole&repo=finance-tracker&theme=radical)](https://github.com/SejalBhole/Finance_Tracker) | [![Sign Language](https://github-readme-stats.vercel.app/api/pin/?username=SejalBhole&repo=sign-language-recognition&theme=radical)](https://github.com/SejalBhole/sign-language-recognition) |
 | *MERN Stack • Authentication • Dashboard* | *CNN + LSTM • Computer Vision • 95% Accuracy* |
 
 <br>
