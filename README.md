@@ -6,7 +6,7 @@
 
 **🔥 Final-year Computer Engineering @ BVCOE, Pune | MERN Stack + ML Enthusiast 🔥**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6f42c1&center=true&vCenter=true&width=435&lines=Turning+Code+into+Real-World+Solutions;Full-Stack+Developer+%F0%9F%8E%AF;MERN+Stack+Specialist;ML+%26+Data+Science;Open+Source+Contributor)](https://github.com/SejalBhole)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6f42c1&center=true&vCenter=true&width=500&lines=Turning+Code+into+Real-World+Solutions;Full-Stack+Developer+%F0%9F%8E%AF;MERN+Stack+Specialist;ML+%26+Data+Science)](https://github.com/SEJALBHOLE)
 
 </div>
 
@@ -78,35 +78,72 @@
 
 ## 🔥 **Featured Projects**
 
-<div align="center">
-
-| 📊 **Finance Tracker** | ✋ **Sign Language Recognition** |
-|:---:|:---:|
-| [![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=SejalBhole&repo=finance-tracker&theme=radical)](https://github.com/SejalBhole/Finance_Tracker) | [![Sign Language](https://github-readme-stats.vercel.app/api/pin/?username=SejalBhole&repo=sign-language-recognition&theme=radical)](https://github.com/SejalBhole/sign-language-recognition) |
-| *MERN Stack • Authentication • Dashboard* | *CNN + LSTM • Computer Vision • 95% Accuracy* |
-
-<br>
-
-| 📁 **Secure File Upload** |
-|:---:|
-| [![File Upload](https://github-readme-stats.vercel.app/api/pin/?username=SejalBhole&repo=file-upload-system&theme=radical)](https://github.com/SejalBhole/file-upload-system) |
-| *Node.js • JWT Auth • AWS S3 Integration* |
-
-</div>
-
----
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-
-![Sejal's Stats](https://github-readme-stats.vercel.app/api?username=SejalBhole&show_icons=true&theme=radical&hide_border=true)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SejalBhole&layout=compact&theme=radical&hide_border=true)
-<br>
-![Trophy](https://github-profile-trophy.vercel.app/?username=SejalBhole&theme=radical&no-frame=true&no-bg=true)
-
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>💰 Finance Tracker</h3>
+      <a href="https://github.com/SejalBhole/Finance_Tracker">
+        <img src="https://img.shields.io/badge/MERN-Stack-000?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" />
+      </a>
+      <br><br>
+      <strong>Master Your Money</strong>
+      <br>
+      A real-time expense tracker featuring visual data dashboards to stop you from guessing where your cash goes.
+      <br><br>
+      <sub>👇 <b>Tech Stack</b></sub><br>
+      <code>React</code> <code>Node.js</code> <code>JWT Auth</code>
+      <br><br>
+      <a href="https://github.com/SejalBhole/Finance_Tracker"><strong>Explore Project »</strong></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>✋ Sign Language Recog.</h3>
+      <a href="https://github.com/suhani-90/Sign-Language">
+        <img src="https://img.shields.io/badge/AI-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
+      </a>
+      <br><br>
+      <strong>Bridging Communication</strong>
+      <br>
+      Uses CNN + LSTM neural networks to instantly translate hand gestures into text with 95% accuracy.
+      <br><br>
+      <sub>👇 <b>Tech Stack</b></sub><br>
+      <code>Python</code> <code>OpenCV</code> <code>Deep Learning</code>
+      <br><br>
+      <a href="https://github.com/suhani-90/Sign-Language"><strong>Explore Project »</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>📂 Secure File Upload</h3>
+      <a href="https://github.com/SejalBhole/FileUpload">
+        <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" height="35" />
+      </a>
+      <br><br>
+      <strong>Smart Asset Management</strong>
+      <br>
+      A seamless file management system featuring instant file type validation and secure storage handling.
+      <br><br>
+      <sub>👇 <b>Tech Stack</b></sub><br>
+      <code>Node.js</code> <code>Multer</code> <code>Validation</code>
+      <br><br>
+      <a href="https://github.com/SejalBhole/FileUpload"><strong>Explore Project »</strong></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🔐 MERN Auth System</h3>
+      <a href="https://github.com/SejalBhole/MERN-AUTH">
+        <img src="https://img.shields.io/badge/Security-Auth-E34F26?style=for-the-badge&logo=json-web-tokens&logoColor=white" height="35" />
+      </a>
+      <br><br>
+      <strong>Ironclad Security</strong>
+      <br>
+      Production-ready authentication boilerplate with stateless sessions, encryption, and scalable architecture.
+      <br><br>
+      <sub>👇 <b>Tech Stack</b></sub><br>
+      <code>JWT</code> <code>Bcrypt</code> <code>MongoDB</code>
+      <br><br>
+      <a href="https://github.com/SejalBhole/MERN-AUTH"><strong>Explore Project »</strong></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
