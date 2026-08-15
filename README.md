@@ -7,7 +7,7 @@
 ![MERN](https://img.shields.io/badge/MERN%20STACK-DEVELOPER-6a1b9a?style=for-the-badge)
 ![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-ENTHUSIAST-00897b?style=for-the-badge)
 
-Final-year Computer Engineering student building full-stack web apps with the MERN stack and uncovering insights from data with SQL, Python, and Power BI. I like shipping things that work and numbers that tell a story.
+Computer Engineering Graduate(2026) building full-stack web apps with the MERN stack and uncovering insights from data with SQL, Python, and Power BI. I like shipping things that work and numbers that tell a story.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sejalpbhole@gmail.com)
