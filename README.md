@@ -1,116 +1,101 @@
-### 👋 Hello There! I'm Sejal Bhole
-
 <div align="center">
 
-![MERN Stack](https://img.shields.io/badge/MERN%20STACK-DEVELOPER-6a1b9a?style=for-the-badge)
+# Hi, I'm Sejal Bhole 👋
+
+### MERN Stack Developer · Data Analyst Enthusiast
+
+![MERN](https://img.shields.io/badge/MERN%20STACK-DEVELOPER-6a1b9a?style=for-the-badge)
 ![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-ENTHUSIAST-00897b?style=for-the-badge)
+
+Final-year Computer Engineering student building full-stack web apps with the MERN stack and uncovering insights from data with SQL, Python, and Power BI. I like shipping things that work and numbers that tell a story.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sejalpbhole@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sejalbhole.in)
 
 </div>
 
-🎓 Final-year Computer Engineering @ BVCOE, Pune | MERN Stack Developer + Data Analytics Enthusiast
+---
 
-> Turning Data and Code into Real-World Solutions
+## 🌐 MERN Stack Developer
+
+**Core skills:** REST API design · JWT authentication · state management · responsive UI · MongoDB schema design · deployment (Vercel/Render/Netlify)
+
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| [Finance Tracker](https://github.com/SejalBhole/Finance_Tracker) | Real-time expense tracker with visual dashboards | React · Node.js · JWT | 🟢 Live — *[demo link]* |
+| [DevMates](https://github.com/SejalBhole/DevMates) | Full-stack team management app for dev teams | Next.js · MongoDB · Tailwind | 🟡 In progress |
+| [MERN Auth System](https://github.com/SejalBhole/MERN-AUTH) | Production-ready auth boilerplate (encryption, sessions) | JWT · Bcrypt · MongoDB | 🟢 Deployed — *[demo link]* |
+| [Smart Expense Tracker API](https://github.com/SejalBhole/smart-expense-tracker-api) | Backend API for expense management | Node.js · Express · MongoDB | 🟢 Deployed — *[demo link]* |
 
 ---
 
-### 🎒 My Journey
+## 📊 Data Analyst Enthusiast
 
-Government Polytechnic Jalgaon (Diploma) → BVCOE Pune (BE Final Year)
+**Core tools:** SQL (PostgreSQL/MySQL) · Python (Pandas, NumPy) · Power BI · Excel · EDA & data cleaning · dashboarding
 
-*From foundations to full-stack + data-driven innovation in 4 years!*
-
----
-
-### 🧰 Tech Arsenal
-
-**💻 Full Stack (MERN)**
-`MongoDB` `Express.js` `React` `Node.js`
-
-**🎨 Frontend**
-`React` `JavaScript` `HTML5` `CSS3` `jQuery`
-
-**⚙️ Backend & Database**
-`Node.js` `PHP` `Python` `MySQL` `MongoDB`
-
-**📊 Data Analysis**
-`Python` `SQL` `Power BI` `Excel` `Pandas` `EDA` `Data Cleaning` `Statistical Insights`
-
-**🤖 Machine Learning**
-`Data Preprocessing` `Feature Engineering` `Model Evaluation` `CNN` `Deep Learning`
-
-**🧠 Core CS**
-`OOPs` `Operating Systems` `DBMS` `Data Structures`
-
----
-
-### 🏆 Real-World Impact
-
-**🥇 Sumago Infotech — Web Dev Internship**
-- Award Winner - Excellence in Responsive Web Development
-- Built production-ready responsive websites
-- Delivered projects under tight deadlines
-
-**📈 IMD — ML Internship**
-- Real datasets → Actionable insights
-- ML model evaluation & optimization
-- Feature engineering on production data
-- Technical documentation
-
-**🎤 Leadership Experience**
-- Event Hosting & Anchoring Head
-- Team Lead for college tech fests
-- Public Speaking champion
-
----
-
-### 🔥 Featured Projects
-
-#### 🌐 MERN Stack Development
-
-| Project | Description | Tech Stack |
+| Project | Dataset | Outcome |
 |---|---|---|
-| 💰 [Smart Expense Tracker API](https://github.com/SejalBhole/smart-expense-tracker-api) | Backend API for tracking and managing personal expenses | Node.js, Express, MongoDB |
-| 💵 [Finance Tracker](https://github.com/SejalBhole/Finance_Tracker) | Real-time expense tracker with visual data dashboards | React, Node.js, JWT Auth |
-| 🤝 [DevMates](https://github.com/SejalBhole/DevMates) | Full-stack team management app for developers | Next.js, MongoDB, Tailwind CSS |
-| 🔐 [MERN Auth System](https://github.com/SejalBhole/MERN-AUTH) | Production-ready authentication boilerplate | JWT, Bcrypt, MongoDB |
-| 📂 [Secure File Upload](https://github.com/SejalBhole/FileUpload) | File management system with type validation & secure storage | Node.js, Multer |
-| 🔌 [Node REST API](https://github.com/SejalBhole/Node-Rest-API) | RESTful API for user data & authentication | Node.js, Express |
-| 🌱 [Mentorship Platform](https://github.com/SejalBhole/Mentorship_Platform) | Web platform connecting mentors and students | HTML, CSS, JS |
-
-#### 📊 Data Analysis Projects
-
-| Project | Description | Tools |
-|---|---|---|
-| 🛒 [Blinkit Data Analysis](https://github.com/SejalBhole/Blinkit_Data_Analysis) | Sales, customer ratings & outlet analysis with EDA and statistical insights | SQL, Power BI |
-| 📦 [Zepto Inventory Analysis](https://github.com/SejalBhole/Zepto-Inventory-Analysis) | Pricing, discount & stock availability impact on business decisions | PostgreSQL |
-| 🛍️ [Customer Behavior Analysis](https://github.com/SejalBhole/Customer_Behavior_Analysis) | Real-world retail customer behavior & shopping trends analysis | Python, SQL, Power BI |
-| 🏬 [Retailvista Sales Analysis](https://github.com/SejalBhole/Retailvista-Sales-Analysis) | Interactive Excel dashboard for retail sales & business recommendations | Excel |
-| 📘 [Data Science](https://github.com/SejalBhole/Data-Science) | Collection of data science concepts, notebooks & experiments | Jupyter Notebook |
-
-#### 🤖 Machine Learning / AI Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| ✋ [Sign Character Recognition](https://github.com/SejalBhole/Sign_Character_Recognition) | Sign language recognition using Deep Learning with a web interface | Python, OpenCV, Deep Learning |
-| 🖼️ [Image Classification Using CNN](https://github.com/SejalBhole/Image_Classification_Using_CNN) | CNN-based image classification model | Python, Jupyter Notebook |
+| [Blinkit Data Analysis](https://github.com/SejalBhole/Blinkit_Data_Analysis) | Blinkit sales & outlet data | Uncovered sales trends, customer ratings & outlet-level insights using SQL + Power BI |
+| [Zepto Inventory Analysis](https://github.com/SejalBhole/Zepto-Inventory-Analysis) | Zepto inventory & pricing data | Analyzed how pricing/discounts impact stock availability via PostgreSQL |
+| [Customer Behavior Analysis](https://github.com/SejalBhole/Customer_Behavior_Analysis) | Retail customer shopping trends | Built a full analyst project (Python, SQL, Power BI) surfacing shopping pattern insights |
+| [Retailvista Sales Analysis](https://github.com/SejalBhole/Retailvista-Sales-Analysis) | Retail sales data | Interactive Excel dashboard driving business recommendations |
 
 ---
 
-### 🚀 Currently Learning & Building
+## 🕒 Timeline & Highlights
 
-- 🔄 Advanced React: Hooks & Context API
-- 🧠 Deep Learning: TensorFlow & PyTorch
-- 📈 Advanced Data Visualization: Power BI & Tableau
-- ⚡ Next.js: For production-ready applications
-- 📱 UI/UX: Mobile-first responsive design
+```
+2022        Government Polytechnic Jalgaon — Diploma in Computer Engineering
+2023–2026   BVCOE, Pune — B.E. Computer Engineering (Final Year)
+2024        Web Dev Internship @ Sumago Infotech — 🏅 Award: Excellence in Responsive Web Development
+2025        ML Internship @ IMD — Model evaluation & feature engineering on production data
+2025–26     Team Lead, college tech fests · Event Hosting & Anchoring Head
+[Add]       Certification — e.g. "SQL for Data Analysis", "Power BI Certified"
+```
 
 ---
 
-### 💬 Let's Connect!
+## 🧩 Projects Grid
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sejalpbhole@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sejalbhole.in)
+| Name | One-liner | Tech Stack | Link |
+|---|---|---|---|
+| 💰 Finance Tracker | MERN expense tracker with dashboards | React, Node.js, MongoDB, JWT | [Repo](https://github.com/SejalBhole/Finance_Tracker) |
+| 🛒 Blinkit Data Analysis | SQL + Power BI retail insights project | SQL, Power BI | [Repo](https://github.com/SejalBhole/Blinkit_Data_Analysis) |
+| ✋ Sign Character Recognition | Real-time sign language → text | Python, OpenCV, Deep Learning | [Repo](https://github.com/SejalBhole/Sign_Character_Recognition) |
+| 🔐 MERN Auth System | Secure, production-ready auth boilerplate | JWT, Bcrypt, MongoDB | [Repo](https://github.com/SejalBhole/MERN-AUTH) |
+| 🏬 Retailvista Sales Analysis | Interactive Excel sales dashboard | Excel | [Repo](https://github.com/SejalBhole/Retailvista-Sales-Analysis) |
 
-⚡ Pro Tip: Turning coffee into code (and data into decisions) since 2022
-⭐ Star this repo if you found it helpful!
+---
+
+## 🛠️ Skills
+
+**Frontend:** React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · jQuery
+**Backend:** Node.js · Express.js · PHP · REST APIs
+**Databases:** MongoDB · MySQL · PostgreSQL
+**Data Analysis:** Python (Pandas, NumPy) · SQL · Power BI · Excel · EDA
+**Tools:** Git & GitHub · Postman · VS Code · Jupyter Notebook · Figma
+
+---
+
+## 🤝 How I Can Help
+
+- Building and shipping full-stack (MERN) web applications end to end
+- Designing REST APIs and authentication systems
+- Cleaning, analyzing, and visualizing datasets to support business decisions
+- Building dashboards (Power BI/Excel) for reporting and insights
+- Collaborating on internships, freelance projects, or open-source contributions
+
+---
+
+## 📬 Let's Connect
+
+I'm open to internships, freelance work, and collaborative projects in web development or data analytics.
+
+📧 **Email:** sejalpbhole@gmail.com &nbsp;|&nbsp; 🔗 **Portfolio:** [sejalbhole.in](https://sejalbhole.in) &nbsp;|&nbsp; 💼 **LinkedIn:** *[add link]*
+
+<div align="center">
+
+⭐ **If any of this resonates, drop a message — always up for building something new.**
+
+</div>
