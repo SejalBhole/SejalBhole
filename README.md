@@ -1,179 +1,116 @@
-<div align="center">
-
-# 👋 Hello There! I'm Sejal Bhole
-
-![Header Banner](https://img.shields.io/badge/Full%20Stack%20%2B%20ML-Developer-6f42c1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTYiIGZpbGw9IiM2RjQyQzEiLz4KPHRleHQgeD0iMTYiIHk9IjIwIiBmb250LWZhbWlseT0iLURlamFWdVNhbnMtTW9uby1Ob3JtYWwsIERlamFWdSBTYW5zIE1vbm8iIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5TZUphbDwvdGV4dD4KPC9zdmc+)
-
-**🔥 Final-year Computer Engineering @ BVCOE, Pune | MERN Stack + ML Enthusiast 🔥**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6f42c1&center=true&vCenter=true&width=500&lines=Turning+Code+into+Real-World+Solutions;Full-Stack+Developer+%F0%9F%8E%AF;MERN+Stack+Specialist;ML+%26+Data+Science)](https://github.com/SEJALBHOLE)
-
-</div>
-
----
-
-## 🎓 **My Journey**
-
-> **Government Polytechnic Jalgaon (Diploma) → BVCOE Pune (BE Final Year)**
->
-> *From foundations to full-stack innovation in 4 years!*
-
----
-
-## 🛠️ **Tech Arsenal**
+### 👋 Hello There! I'm Sejal Bhole
 
 <div align="center">
 
-### 🌐 **Full Stack**
-![MERN Stack](https://img.shields.io/badge/MERN-00D8FF?style=for-the-badge&logo=mongodb&logoColor=white)
-<br>
-`MongoDB` • `Express.js` • `React` • `Node.js`
-
-### 🎨 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### ⚙️ **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 **Machine Learning**
-![ML Concepts](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge&label=Data%20Science)
-<br>
-`Data Preprocessing` • `Feature Engineering` • `Model Evaluation`
-
-### 💻 **Core CS**
-![OOPs OS DBMS](https://img.shields.io/badge/Core%20CS-4ECDC4?style=for-the-badge&logo=c&logoColor=white)
-<br>
-`OOPs` • `Operating Systems` • `DBMS` • `Data Structures`
+![MERN Stack](https://img.shields.io/badge/MERN%20STACK-DEVELOPER-6a1b9a?style=for-the-badge)
+![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-ENTHUSIAST-00897b?style=for-the-badge)
 
 </div>
 
----
+🎓 Final-year Computer Engineering @ BVCOE, Pune | MERN Stack Developer + Data Analytics Enthusiast
 
-## 🏆 **Real-World Impact**
-
-### **🎖️ Sumago Infotech (Web Dev Internship)**
-> **Award Winner** - Excellence in Responsive Web Development
-> * Built production-ready responsive websites.
-> * Delivered projects under tight deadlines.
-
-### **🔬 IMD (ML Internship)**
-> **Real datasets → Actionable insights**
-> * ML model evaluation & optimization.
-> * Feature engineering on production data.
-> * Technical documentation.
-
-### **🎤 Leadership Experience**
-* **Event Hosting & Anchoring Head**
-* **Team Lead** for college tech fests
-* **Public Speaking** champion
+> Turning Data and Code into Real-World Solutions
 
 ---
 
-## 🔥 **Featured Projects**
+### 🎒 My Journey
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>💰 Finance Tracker</h3>
-      <a href="https://github.com/SejalBhole/Finance_Tracker">
-        <img src="https://img.shields.io/badge/MERN-Stack-000?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" />
-      </a>
-      <br><br>
-      <strong>Master Your Money</strong>
-      <br>
-      A real-time expense tracker featuring visual data dashboards to stop you from guessing where your cash goes.
-      <br><br>
-      <sub>👇 <b>Tech Stack</b></sub><br>
-      <code>React</code> <code>Node.js</code> <code>JWT Auth</code>
-      <br><br>
-      <a href="https://github.com/SejalBhole/Finance_Tracker"><strong>Explore Project »</strong></a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>✋ Sign Language Recog.</h3>
-      <a href="https://github.com/suhani-90/Sign-Language">
-        <img src="https://img.shields.io/badge/AI-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
-      </a>
-      <br><br>
-      <strong>Bridging Communication</strong>
-      <br>
-      Uses CNN + LSTM neural networks to instantly translate hand gestures into text with 95% accuracy.
-      <br><br>
-      <sub>👇 <b>Tech Stack</b></sub><br>
-      <code>Python</code> <code>OpenCV</code> <code>Deep Learning</code>
-      <br><br>
-      <a href="https://github.com/suhani-90/Sign-Language"><strong>Explore Project »</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>📂 Secure File Upload</h3>
-      <a href="https://github.com/SejalBhole/FileUpload">
-        <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" height="35" />
-      </a>
-      <br><br>
-      <strong>Smart Asset Management</strong>
-      <br>
-      A seamless file management system featuring instant file type validation and secure storage handling.
-      <br><br>
-      <sub>👇 <b>Tech Stack</b></sub><br>
-      <code>Node.js</code> <code>Multer</code> <code>Validation</code>
-      <br><br>
-      <a href="https://github.com/SejalBhole/FileUpload"><strong>Explore Project »</strong></a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🔐 MERN Auth System</h3>
-      <a href="https://github.com/SejalBhole/MERN-AUTH">
-        <img src="https://img.shields.io/badge/Security-Auth-E34F26?style=for-the-badge&logo=json-web-tokens&logoColor=white" height="35" />
-      </a>
-      <br><br>
-      <strong>Ironclad Security</strong>
-      <br>
-      Production-ready authentication boilerplate with stateless sessions, encryption, and scalable architecture.
-      <br><br>
-      <sub>👇 <b>Tech Stack</b></sub><br>
-      <code>JWT</code> <code>Bcrypt</code> <code>MongoDB</code>
-      <br><br>
-      <a href="https://github.com/SejalBhole/MERN-AUTH"><strong>Explore Project »</strong></a>
-    </td>
-  </tr>
-</table>
+Government Polytechnic Jalgaon (Diploma) → BVCOE Pune (BE Final Year)
+
+*From foundations to full-stack + data-driven innovation in 4 years!*
 
 ---
 
-## 🌟 **Currently Learning & Building**
+### 🧰 Tech Arsenal
 
-- 🔄 **Advanced React:** Hooks & Context API
-- 🧠 **Deep Learning:** TensorFlow & PyTorch
-- 🚀 **Next.js:** For production-ready applications
-- 📱 **UI/UX:** Mobile-first responsive design
+**💻 Full Stack (MERN)**
+`MongoDB` `Express.js` `React` `Node.js`
+
+**🎨 Frontend**
+`React` `JavaScript` `HTML5` `CSS3` `jQuery`
+
+**⚙️ Backend & Database**
+`Node.js` `PHP` `Python` `MySQL` `MongoDB`
+
+**📊 Data Analysis**
+`Python` `SQL` `Power BI` `Excel` `Pandas` `EDA` `Data Cleaning` `Statistical Insights`
+
+**🤖 Machine Learning**
+`Data Preprocessing` `Feature Engineering` `Model Evaluation` `CNN` `Deep Learning`
+
+**🧠 Core CS**
+`OOPs` `Operating Systems` `DBMS` `Data Structures`
 
 ---
 
-## 💬 **Let's Connect!**
+### 🏆 Real-World Impact
 
-<div align="center">
+**🥇 Sumago Infotech — Web Dev Internship**
+- Award Winner - Excellence in Responsive Web Development
+- Built production-ready responsive websites
+- Delivered projects under tight deadlines
 
-<a href="https://www.linkedin.com/in/sejal-bhole1">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="sejalpbhole@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://sejal-bhole-portfolio.web.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfolio">
-</a>
+**📈 IMD — ML Internship**
+- Real datasets → Actionable insights
+- ML model evaluation & optimization
+- Feature engineering on production data
+- Technical documentation
 
-<br><br>
+**🎤 Leadership Experience**
+- Event Hosting & Anchoring Head
+- Team Lead for college tech fests
+- Public Speaking champion
 
-**⚡ Pro Tip: Turning coffee into code since 2022 ⚡**
+---
 
-⭐ **Star this repo if you found it helpful!**
+### 🔥 Featured Projects
 
-</div>
+#### 🌐 MERN Stack Development
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 💰 [Smart Expense Tracker API](https://github.com/SejalBhole/smart-expense-tracker-api) | Backend API for tracking and managing personal expenses | Node.js, Express, MongoDB |
+| 💵 [Finance Tracker](https://github.com/SejalBhole/Finance_Tracker) | Real-time expense tracker with visual data dashboards | React, Node.js, JWT Auth |
+| 🤝 [DevMates](https://github.com/SejalBhole/DevMates) | Full-stack team management app for developers | Next.js, MongoDB, Tailwind CSS |
+| 🔐 [MERN Auth System](https://github.com/SejalBhole/MERN-AUTH) | Production-ready authentication boilerplate | JWT, Bcrypt, MongoDB |
+| 📂 [Secure File Upload](https://github.com/SejalBhole/FileUpload) | File management system with type validation & secure storage | Node.js, Multer |
+| 🔌 [Node REST API](https://github.com/SejalBhole/Node-Rest-API) | RESTful API for user data & authentication | Node.js, Express |
+| 🌱 [Mentorship Platform](https://github.com/SejalBhole/Mentorship_Platform) | Web platform connecting mentors and students | HTML, CSS, JS |
+
+#### 📊 Data Analysis Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| 🛒 [Blinkit Data Analysis](https://github.com/SejalBhole/Blinkit_Data_Analysis) | Sales, customer ratings & outlet analysis with EDA and statistical insights | SQL, Power BI |
+| 📦 [Zepto Inventory Analysis](https://github.com/SejalBhole/Zepto-Inventory-Analysis) | Pricing, discount & stock availability impact on business decisions | PostgreSQL |
+| 🛍️ [Customer Behavior Analysis](https://github.com/SejalBhole/Customer_Behavior_Analysis) | Real-world retail customer behavior & shopping trends analysis | Python, SQL, Power BI |
+| 🏬 [Retailvista Sales Analysis](https://github.com/SejalBhole/Retailvista-Sales-Analysis) | Interactive Excel dashboard for retail sales & business recommendations | Excel |
+| 📘 [Data Science](https://github.com/SejalBhole/Data-Science) | Collection of data science concepts, notebooks & experiments | Jupyter Notebook |
+
+#### 🤖 Machine Learning / AI Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| ✋ [Sign Character Recognition](https://github.com/SejalBhole/Sign_Character_Recognition) | Sign language recognition using Deep Learning with a web interface | Python, OpenCV, Deep Learning |
+| 🖼️ [Image Classification Using CNN](https://github.com/SejalBhole/Image_Classification_Using_CNN) | CNN-based image classification model | Python, Jupyter Notebook |
+
+---
+
+### 🚀 Currently Learning & Building
+
+- 🔄 Advanced React: Hooks & Context API
+- 🧠 Deep Learning: TensorFlow & PyTorch
+- 📈 Advanced Data Visualization: Power BI & Tableau
+- ⚡ Next.js: For production-ready applications
+- 📱 UI/UX: Mobile-first responsive design
+
+---
+
+### 💬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sejalpbhole@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sejalbhole.in)
+
+⚡ Pro Tip: Turning coffee into code (and data into decisions) since 2022
+⭐ Star this repo if you found it helpful!
