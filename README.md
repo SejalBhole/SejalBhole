@@ -47,11 +47,10 @@ Final-year Computer Engineering student building full-stack web apps with the ME
 
 ```
 2022        Government Polytechnic Jalgaon — Diploma in Computer Engineering
-2023–2026   BVCOE, Pune — B.E. Computer Engineering (Final Year)
+2023–2026   BVCOE, Pune — B.E. Computer Engineering
 2024        Web Dev Internship @ Sumago Infotech — 🏅 Award: Excellence in Responsive Web Development
 2025        ML Internship @ IMD — Model evaluation & feature engineering on production data
 2025–26     Team Lead, college tech fests · Event Hosting & Anchoring Head
-[Add]       Certification — e.g. "SQL for Data Analysis", "Power BI Certified"
 ```
 
 ---
@@ -92,7 +91,7 @@ Final-year Computer Engineering student building full-stack web apps with the ME
 
 I'm open to internships, freelance work, and collaborative projects in web development or data analytics.
 
-📧 **Email:** sejalpbhole@gmail.com &nbsp;|&nbsp; 🔗 **Portfolio:** [sejalbhole.in](https://sejalbhole.in) &nbsp;|&nbsp; 💼 **LinkedIn:** *[add link]*
+📧 **Email:** sejalpbhole@gmail.com &nbsp;|&nbsp; 🔗 **Portfolio:** [sejalbhole.in](https://sejalbhole.in) &nbsp;|&nbsp; 💼 **LinkedIn:** *[www.linkedin.com/in/sejal-bhole1]*
 
 <div align="center">
 
