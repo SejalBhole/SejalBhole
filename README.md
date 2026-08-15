@@ -13,8 +13,7 @@
 <br/>
 
 ## 🧭 About Me
-
-Final-year Computer Engineering student (BVCOE, Pune) with two passions: **shipping full-stack products** with the MERN stack, and **digging into data** to find the story behind the numbers. Comfortable across the stack — from a React UI down to a SQL query.
+Computer Engineering Graduate(2026) with two passions: **shipping full-stack products** with the MERN stack, and **digging into data** to find the story behind the numbers. Comfortable across the stack — from a React UI down to a SQL query.
 
 <br/>
 
