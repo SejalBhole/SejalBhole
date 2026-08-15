@@ -1,101 +1,181 @@
 <div align="center">
 
-# Hi, I'm Sejal Bhole 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a1b9a,100:00897b&height=200&section=header&text=Sejal%20Bhole&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Data%20Analyst%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-### MERN Stack Developer · Data Analyst Enthusiast
+<a href="mailto:sejalpbhole@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://sejalbhole.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-![MERN](https://img.shields.io/badge/MERN%20STACK-DEVELOPER-6a1b9a?style=for-the-badge)
-![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-ENTHUSIAST-00897b?style=for-the-badge)
-
-Computer Engineering Graduate(2026) building full-stack web apps with the MERN stack and uncovering insights from data with SQL, Python, and Power BI. I like shipping things that work and numbers that tell a story.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sejalpbhole@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sejalbhole.in)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A1B9A&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+MERN;Turning+raw+data+into+real+insights;React+%2B+Node.js+%2B+SQL+%2B+Power+BI" alt="typing"/>
 
 </div>
 
----
+<br/>
+
+## 🧭 About Me
+
+Final-year Computer Engineering student (BVCOE, Pune) with two passions: **shipping full-stack products** with the MERN stack, and **digging into data** to find the story behind the numbers. Comfortable across the stack — from a React UI down to a SQL query.
+
+<br/>
 
 ## 🌐 MERN Stack Developer
 
-**Core skills:** REST API design · JWT authentication · state management · responsive UI · MongoDB schema design · deployment (Vercel/Render/Netlify)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind" />
 
-| Project | Description | Tech | Status |
-|---|---|---|---|
-| [Finance Tracker](https://github.com/SejalBhole/Finance_Tracker) | Real-time expense tracker with visual dashboards | React · Node.js · JWT | 🟢 Live — *[demo link]* |
-| [DevMates](https://github.com/SejalBhole/DevMates) | Full-stack team management app for dev teams | Next.js · MongoDB · Tailwind | 🟡 In progress |
-| [MERN Auth System](https://github.com/SejalBhole/MERN-AUTH) | Production-ready auth boilerplate (encryption, sessions) | JWT · Bcrypt · MongoDB | 🟢 Deployed — *[demo link]* |
-| [Smart Expense Tracker API](https://github.com/SejalBhole/smart-expense-tracker-api) | Backend API for expense management | Node.js · Express · MongoDB | 🟢 Deployed — *[demo link]* |
+**Focus:** REST APIs · JWT auth · responsive UI · MongoDB schema design · deployment
 
----
+<table>
+<tr>
+<td width="50%">
+
+**💰 [Finance Tracker](https://github.com/SejalBhole/Finance_Tracker)**
+Real-time expense tracker with visual dashboards
+`React` `Node.js` `JWT`
+🟢 Live — *[demo link]*
+
+</td>
+<td width="50%">
+
+**🔐 [MERN Auth System](https://github.com/SejalBhole/MERN-AUTH)**
+Production-ready auth boilerplate
+`JWT` `Bcrypt` `MongoDB`
+🟢 Deployed — *[demo link]*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🤝 [DevMates](https://github.com/SejalBhole/DevMates)**
+Full-stack team management app
+`Next.js` `MongoDB` `Tailwind`
+🟡 In progress
+
+</td>
+<td width="50%">
+
+**⚡ [Smart Expense Tracker API](https://github.com/SejalBhole/smart-expense-tracker-api)**
+Backend API for expense management
+`Node.js` `Express` `MongoDB`
+🟢 Deployed — *[demo link]*
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📊 Data Analyst Enthusiast
 
-**Core tools:** SQL (PostgreSQL/MySQL) · Python (Pandas, NumPy) · Power BI · Excel · EDA & data cleaning · dashboarding
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,githubactions" /> <img height="47" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img height="47" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img height="47" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-| Project | Dataset | Outcome |
-|---|---|---|
-| [Blinkit Data Analysis](https://github.com/SejalBhole/Blinkit_Data_Analysis) | Blinkit sales & outlet data | Uncovered sales trends, customer ratings & outlet-level insights using SQL + Power BI |
-| [Zepto Inventory Analysis](https://github.com/SejalBhole/Zepto-Inventory-Analysis) | Zepto inventory & pricing data | Analyzed how pricing/discounts impact stock availability via PostgreSQL |
-| [Customer Behavior Analysis](https://github.com/SejalBhole/Customer_Behavior_Analysis) | Retail customer shopping trends | Built a full analyst project (Python, SQL, Power BI) surfacing shopping pattern insights |
-| [Retailvista Sales Analysis](https://github.com/SejalBhole/Retailvista-Sales-Analysis) | Retail sales data | Interactive Excel dashboard driving business recommendations |
+**Focus:** SQL · Python (Pandas/NumPy) · Power BI · Excel dashboards · EDA & data cleaning
 
----
+<table>
+<tr>
+<td width="50%">
+
+**🛒 [Blinkit Data Analysis](https://github.com/SejalBhole/Blinkit_Data_Analysis)**
+Sales, ratings & outlet insights
+`SQL` `Power BI`
+
+</td>
+<td width="50%">
+
+**📦 [Zepto Inventory Analysis](https://github.com/SejalBhole/Zepto-Inventory-Analysis)**
+Pricing & stock impact on business
+`PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛍️ [Customer Behavior Analysis](https://github.com/SejalBhole/Customer_Behavior_Analysis)**
+Retail shopping trend patterns
+`Python` `SQL` `Power BI`
+
+</td>
+<td width="50%">
+
+**🏬 [Retailvista Sales Analysis](https://github.com/SejalBhole/Retailvista-Sales-Analysis)**
+Interactive sales dashboard
+`Excel`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🕒 Timeline & Highlights
 
-```
-2022        Government Polytechnic Jalgaon — Diploma in Computer Engineering
-2023–2026   BVCOE, Pune — B.E. Computer Engineering (Final Year)
-2024        Web Dev Internship @ Sumago Infotech — 🏅 Award: Excellence in Responsive Web Development
-2025        ML Internship @ IMD — Model evaluation & feature engineering on production data
-2025–26     Team Lead, college tech fests · Event Hosting & Anchoring Head
-[Add]       Certification — e.g. "SQL for Data Analysis", "Power BI Certified"
-```
+<table>
+<tr><td><b>2022</b></td><td>🎓 Diploma, Computer Engineering — Government Polytechnic Jalgaon</td></tr>
+<tr><td><b>2023–26</b></td><td>🎓 B.E. Computer Engineering (Final Year) — BVCOE, Pune</td></tr>
+<tr><td><b>2024</b></td><td>🏅 Web Dev Internship @ Sumago Infotech — Award: Excellence in Responsive Web Development</td></tr>
+<tr><td><b>2025</b></td><td>📊 ML Internship @ IMD — model evaluation & feature engineering on production data</td></tr>
+<tr><td><b>2025–26</b></td><td>🎤 Team Lead, college tech fests · Event Hosting & Anchoring Head</td></tr>
+<tr><td><b>[Add]</b></td><td>📜 Certification — e.g. "SQL for Data Analysis", "Power BI Certified"</td></tr>
+</table>
 
----
+<br/>
 
-## 🧩 Projects Grid
+## 🧩 Featured Projects
 
-| Name | One-liner | Tech Stack | Link |
+| | Project | One-liner | Stack |
 |---|---|---|---|
-| 💰 Finance Tracker | MERN expense tracker with dashboards | React, Node.js, MongoDB, JWT | [Repo](https://github.com/SejalBhole/Finance_Tracker) |
-| 🛒 Blinkit Data Analysis | SQL + Power BI retail insights project | SQL, Power BI | [Repo](https://github.com/SejalBhole/Blinkit_Data_Analysis) |
-| ✋ Sign Character Recognition | Real-time sign language → text | Python, OpenCV, Deep Learning | [Repo](https://github.com/SejalBhole/Sign_Character_Recognition) |
-| 🔐 MERN Auth System | Secure, production-ready auth boilerplate | JWT, Bcrypt, MongoDB | [Repo](https://github.com/SejalBhole/MERN-AUTH) |
-| 🏬 Retailvista Sales Analysis | Interactive Excel sales dashboard | Excel | [Repo](https://github.com/SejalBhole/Retailvista-Sales-Analysis) |
+| 💰 | [Finance Tracker](https://github.com/SejalBhole/Finance_Tracker) | MERN expense tracker with dashboards | React · Node.js · MongoDB |
+| 🛒 | [Blinkit Data Analysis](https://github.com/SejalBhole/Blinkit_Data_Analysis) | SQL + Power BI retail insights | SQL · Power BI |
+| ✋ | [Sign Character Recognition](https://github.com/SejalBhole/Sign_Character_Recognition) | Real-time sign language → text | Python · OpenCV · Deep Learning |
+| 🔐 | [MERN Auth System](https://github.com/SejalBhole/MERN-AUTH) | Secure auth boilerplate | JWT · Bcrypt · MongoDB |
+| 🏬 | [Retailvista Sales Analysis](https://github.com/SejalBhole/Retailvista-Sales-Analysis) | Interactive Excel sales dashboard | Excel |
 
----
+<br/>
 
 ## 🛠️ Skills
 
-**Frontend:** React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · jQuery
-**Backend:** Node.js · Express.js · PHP · REST APIs
-**Databases:** MongoDB · MySQL · PostgreSQL
-**Data Analysis:** Python (Pandas, NumPy) · SQL · Power BI · Excel · EDA
-**Tools:** Git & GitHub · Postman · VS Code · Jupyter Notebook · Figma
+<table>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind"/></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,php"/></td></tr>
+<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/></td></tr>
+<tr><td><b>Data Analysis</b></td><td><img src="https://skillicons.dev/icons?i=python"/> <img height="30" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img height="30" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/></td></tr>
+<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma"/></td></tr>
+</table>
 
----
+<br/>
 
 ## 🤝 How I Can Help
 
-- Building and shipping full-stack (MERN) web applications end to end
-- Designing REST APIs and authentication systems
-- Cleaning, analyzing, and visualizing datasets to support business decisions
-- Building dashboards (Power BI/Excel) for reporting and insights
-- Collaborating on internships, freelance projects, or open-source contributions
+- 🏗️ Building and shipping full-stack (MERN) web apps end to end
+- 🔌 Designing REST APIs and authentication systems
+- 🧹 Cleaning, analyzing, and visualizing data for business decisions
+- 📈 Building dashboards (Power BI / Excel) for reporting and insights
+- 🤝 Collaborating on internships, freelance projects, or open source
 
----
+<br/>
 
-## 📬 Let's Connect
+## 📊 GitHub Stats
 
-I'm open to internships, freelance work, and collaborative projects in web development or data analytics.
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SejalBhole&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejalBhole&layout=compact&theme=radical&hide_border=true"/>
+</div>
 
-📧 **Email:** sejalpbhole@gmail.com &nbsp;|&nbsp; 🔗 **Portfolio:** [sejalbhole.in](https://sejalbhole.in) &nbsp;|&nbsp; 💼 **LinkedIn:** *[add link]*
+<br/>
 
 <div align="center">
 
+## 📬 Let's Connect
+
+Open to internships, freelance work, and collaborative projects in web development or data analytics.
+
+<a href="mailto:sejalpbhole@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://sejalbhole.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
 ⭐ **If any of this resonates, drop a message — always up for building something new.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00897b,100:6a1b9a&height=100&section=footer" width="100%"/>
 
 </div>
