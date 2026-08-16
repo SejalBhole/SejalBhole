@@ -9,7 +9,7 @@
 
 Computer Engineering graduate(2026) building full-stack web apps with the MERN stack and uncovering insights from data with SQL, Python, and Power BI. I like shipping things that work and numbers that tell a story.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-bhole1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sejalpbhole@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sejalbhole.in)
 
@@ -21,12 +21,12 @@ Computer Engineering graduate(2026) building full-stack web apps with the MERN s
 
 **Core skills:** REST API design · JWT authentication · state management · responsive UI · MongoDB schema design · deployment (Vercel/Render/Netlify)
 
-| Project | Description | Tech | Status |
+| Project | Description | Tech | 
 |---|---|---|---|
-| [Finance Tracker](https://github.com/SejalBhole/Finance_Tracker) | Real-time expense tracker with visual dashboards | React · Node.js · JWT | 🟢 Live — *[demo link]* |
-| [DevMates](https://github.com/SejalBhole/DevMates) | Full-stack team management app for dev teams | Next.js · MongoDB · Tailwind | 🟡 In progress |
-| [MERN Auth System](https://github.com/SejalBhole/MERN-AUTH) | Production-ready auth boilerplate (encryption, sessions) | JWT · Bcrypt · MongoDB | 🟢 Deployed — *[demo link]* |
-| [Smart Expense Tracker API](https://github.com/SejalBhole/smart-expense-tracker-api) | Backend API for expense management | Node.js · Express · MongoDB | 🟢 Deployed — *[demo link]* |
+| [Finance Tracker](https://github.com/SejalBhole/Finance_Tracker) | Real-time expense tracker with visual dashboards | React · Node.js · JWT | 
+| [DevMates](https://github.com/SejalBhole/DevMates) | Full-stack team management app for dev teams | Next.js · MongoDB · Tailwind | 
+| [MERN Auth System](https://github.com/SejalBhole/MERN-AUTH) | Production-ready auth boilerplate (encryption, sessions) | JWT · Bcrypt · MongoDB | 
+| [Smart Expense Tracker API](https://github.com/SejalBhole/smart-expense-tracker-api) | Backend API for expense management | Node.js · Express · MongoDB | 
 
 ---
 
