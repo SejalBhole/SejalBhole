@@ -19,15 +19,14 @@ Computer Engineering graduate(2026) building full-stack web apps with the MERN s
 
 ## 🌐 MERN Stack Developer
 
-**Core skills:** REST API design · JWT authentication · state management · responsive UI · MongoDB schema design · deployment (Vercel/Render/Netlify)
+**Core Skills:** REST API Development · JWT Authentication · State Management · Responsive UI · MongoDB Schema Design · Deployment (Vercel · Render · Netlify)
 
-| Project | Description | Tech | 
-|---|---|---|---|
-| [Finance Tracker](https://github.com/SejalBhole/Finance_Tracker) | Real-time expense tracker with visual dashboards | React · Node.js · JWT | 
-| [DevMates](https://github.com/SejalBhole/DevMates) | Full-stack team management app for dev teams | Next.js · MongoDB · Tailwind | 
-| [MERN Auth System](https://github.com/SejalBhole/MERN-AUTH) | Production-ready auth boilerplate (encryption, sessions) | JWT · Bcrypt · MongoDB | 
-| [Smart Expense Tracker API](https://github.com/SejalBhole/smart-expense-tracker-api) | Backend API for expense management | Node.js · Express · MongoDB | 
-
+| Project | Description | Tech Stack |
+|---|---|---|
+| [Finance Tracker](https://github.com/SejalBhole/Finance_Tracker) | Full-stack expense tracking application with visual dashboards | React · Node.js · Express · MongoDB · JWT |
+| [DevMates](https://github.com/SejalBhole/DevMates) | Full-stack team management application for development teams | Next.js · MongoDB · Tailwind CSS |
+| [MERN Auth System](https://github.com/SejalBhole/MERN-AUTH) | Authentication system with secure password hashing and JWT-based authentication | React · Node.js · Express · MongoDB · JWT · Bcrypt |
+| [Smart Expense Tracker API](https://github.com/SejalBhole/smart-expense-tracker-api) | RESTful backend API for expense and transaction management | Node.js · Express · MongoDB |
 ---
 
 ## 📊 Data Analyst Enthusiast
@@ -91,7 +90,7 @@ Computer Engineering graduate(2026) building full-stack web apps with the MERN s
 
 I'm open to internships, freelance work, and collaborative projects in web development or data analytics.
 
-📧 **Email:** sejalpbhole@gmail.com &nbsp;|&nbsp; 🔗 **Portfolio:** [sejalbhole.in](https://sejalbhole.in) &nbsp;|&nbsp; 💼 **LinkedIn:** *[www.linkedin.com/in/sejal-bhole1]*
+📧 **Email:** sejalpbhole@gmail.com &nbsp;|&nbsp; 🔗 **Portfolio:** [sejalbhole.in](https://sejalbhole.in) &nbsp;|&nbsp; 💼 **LinkedIn:** [www.linkedin.com/in/sejal-bhole1]
 
 <div align="center">
 
